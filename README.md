@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img alt="ITKmz's stats" src="https://github-readme-stats.vercel.app/api?username=ITKmz&show_icons=true">
+
 <!--
 **ITKmz/ITKmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
