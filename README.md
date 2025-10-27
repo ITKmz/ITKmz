@@ -4,7 +4,6 @@
 "I'm a passionate Full-Stack Developer with experience in Java, Spring Boot, GO, and React.js"
 
 🔭 I’m currently study on King Mongkut's University of Technology Thonburi <br/>
-🌱 I’m currently learning Electron.js<br/>
 💻 I’m a Full-Stack Developer<br/>
 
 <h3 align="left">Connect with me:</h3>
